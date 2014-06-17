@@ -1,0 +1,26 @@
+{
+  "name": "browserify_test",
+  "version": "0.0.1",
+  "description": "browserify_test",
+  "main": "bundle.js",
+  "dependencies": {
+    "uniq": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "grunt karma:unit:run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/babaskate/browserify_test"
+  },
+  "keywords": [
+    "browserify"
+  ],
+  "author": "Andrew Babaian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/babaskate/browserify_test/issues"
+  },
+  "homepage": "https://github.com/babaskate/browserify_test"
+}
